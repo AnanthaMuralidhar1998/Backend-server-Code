@@ -1,0 +1,68 @@
+[
+  {
+    "category": "Breakfast",
+    "items": [
+      { "name": "Poha", "amount": 50, "image": "https://tse1.mm.bing.net/th/id/OIP.kEsGEpwNyV2-mEB0olZyJAHaE7?pid=Api&P=0&h=180" },
+      { "name": "Upma", "amount": 45, "image": "https://tse3.mm.bing.net/th/id/OIP.ZeDGdHb3LWKcOkMpfqjA9AHaEK?pid=Api&P=0&h=180" },
+      { "name": "Idli", "amount": 30, "image": "https://tse1.mm.bing.net/th/id/OIP.wAmX_GVRWoozv3x7FbtNowHaE8?pid=Api&P=0&h=180" },
+      { "name": "Masala dosa", "amount": 60, "image": "https://tse1.mm.bing.net/th/id/OIP.nl4b2gjK2Hi5wEK_J7_qyQHaDP?pid=Api&P=0&h=180" },
+      { "name": "Pancakes", "amount": 70, "image": "https://tse1.mm.bing.net/th/id/OIP.UEv3gxBVyrI1bwyBBXTQegHaE8?pid=Api&P=0&h=180" },
+      { "name": "Omelette", "amount": 40, "image": "https://tse4.mm.bing.net/th/id/OIP.0OuweUF9q5_cEOEQOhMZjgHaE8?pid=Api&P=0&h=180" }
+    ]
+  },
+  {
+    "category": "Lunch",
+    "items": [
+      { "name": "Veg Biryani", "amount": 120, "image": "https://tse3.mm.bing.net/th/id/OIP.rUprSy-Tu_ru7GftGXSI-wHaE8?pid=Api&P=0&h=180" },
+      { "name": "Rajma Chawal", "amount": 100, "image": "https://tse2.mm.bing.net/th/id/OIP.09-sfInKRgM6joO2RknNZQHaFq?pid=Api&P=0&h=180" },
+      { "name": "Sambar Rice", "amount": 90, "image": "https://tse1.mm.bing.net/th/id/OIP.OBGkk-iS3evLMcdudyLASgHaHa?pid=Api&P=0&h=180" },
+      { "name": "Palak Paneer", "amount": 130, "image": "https://tse4.mm.bing.net/th/id/OIP.GwXzFGmT-REKNq5WKJNUOgHaF2?pid=Api&P=0&h=180" },
+      { "name": "Chicken Curry", "amount": 150, "image": "https://tse4.mm.bing.net/th/id/OIP.xCr9Xcccv2byqjl1ig29UAHaHa?pid=Api&P=0&h=180" },
+      { "name": "Fish Fry", "amount": 160, "image": "https://tse4.mm.bing.net/th/id/OIP.62aYBCXRk1QO8cCNxBaQpgHaE7?pid=Api&P=0&h=180" }
+    ]
+  },
+  {
+    "category": "Snacks",
+    "items": [
+      { "name": "Samosa", "amount": 15, "image": "https://tse2.mm.bing.net/th/id/OIP.ZZHZxgyNrKF8D2DwMwg8rwHaEK?pid=Api&P=0&h=180" },
+      { "name": "Pakora", "amount": 20, "image": "https://tse2.mm.bing.net/th/id/OIP.dQOFogFPKHi1oQ4B46vZoQHaE8?pid=Api&P=0&h=180" },
+      { "name": "Sandwich", "amount": 50, "image": "https://tse2.mm.bing.net/th/id/OIP.vi4fm7X8wyKLld1X4GLpZQHaFU?pid=Api&P=0&h=180" },
+      { "name": "Pani Puri", "amount": 25, "image": "https://tse4.mm.bing.net/th/id/OIP.Q7NGfgIorifieXt6DhWkPQHaEK?pid=Api&P=0&h=180" },
+      { "name": "Aloo Tikki", "amount": 30, "image": "https://tse2.mm.bing.net/th/id/OIP.IQaeVBA0OW4KBvPdQuq2lAHaFj?pid=Api&P=0&h=180" },
+      { "name": "Maggi Noodles", "amount": 35, "image": "https://tse1.mm.bing.net/th/id/OIP.jCTtqmQgL-NPmALYqNDjmgAAAA?pid=Api&P=0&h=180" }
+    ]
+  },
+  {
+    "category": "Desserts",
+    "items": [
+      { "name": "Gulab Jamun", "amount": 40, "image": "https://tse2.mm.bing.net/th/id/OIP.TR6gVZG-S4YxWTyGXxAHiwHaFk?pid=Api&P=0&h=180"},
+      { "name": "Rasgulla", "amount": 45, "image": "https://tse2.mm.bing.net/th/id/OIP.-xL6tOxyHdVlBmZCmlpQmQHaHa?pid=Api&P=0&h=180" },
+      { "name": "Kheer", "amount": 50, "image": "https://tse4.mm.bing.net/th/id/OIP.IunqA0aCDLxkqFopFaoMBwHaHa?pid=Api&P=0&h=180" },
+      { "name": "Ice Cream", "amount": 60, "image": "https://tse3.mm.bing.net/th/id/OIP.fLP_yLSkDiXJKolfH-Vf-gHaHa?pid=Api&P=0&h=180" },
+      { "name": "Chocolate Cake", "amount": 80, "image": "https://tse4.mm.bing.net/th/id/OIP.1aQ4FjlXZH2gIz0c6FWGjAHaHa?pid=Api&P=0&h=180"},
+      { "name": "Ladoo", "amount": 35, "image": "https://tse2.mm.bing.net/th/id/OIP.-Nmsf6qIl6_4hAvm1BGFCQHaFP?pid=Api&P=0&h=180"}
+    ]
+  },
+  {
+    "category": "Drinks",
+    "items": [
+      { "name": "Mango Lassi", "amount": 40, "image": "https://tse3.mm.bing.net/th/id/OIP.4VBnDNe9lN5v0RXvLMs5gQHaJQ?pid=Api&P=0&h=180" },
+      { "name": "Lemon Juice", "amount": 20, "image": "https://tse3.mm.bing.net/th/id/OIP.jLG_XAWGNNS3Iy0U7oJDjwHaIK?pid=Api&P=0&h=180" },
+      { "name": "Cold Coffee", "amount": 50, "image": "https://tse1.mm.bing.net/th/id/OIP.HFt6aACmmt-oQTh6LMgxSQHaHa?pid=Api&P=0&h=180" },
+      { "name": "Masala Chai", "amount": 15, "image": "https://tse1.mm.bing.net/th/id/OIP.DsezVejWM0aVYNpLuN7JBQHaLG?pid=Api&P=0&h=180" },
+      { "name": "Smoothie", "amount": 60, "image": "https://tse2.mm.bing.net/th/id/OIP.qyniryxMh86hd9NAtakP-QHaHa?pid=Api&P=0&h=180"},
+      { "name": "Buttermilk", "amount": 25, "image": "https://tse3.mm.bing.net/th/id/OIP.FAdJUPyYkOSrgYK8Ys1Z0gHaE6?pid=Api&P=0&h=180"} 
+    ]
+  },
+  {
+    "category": "Dinner",
+    "items": [
+      { "name": "Chapati with Sabzi", "amount": 80, "image": "https://tse2.mm.bing.net/th/id/OIP.bnCxLR8gvbY_TzBt_c868QHaHG?pid=Api&P=0&h=180" },
+      { "name": "Dal Tadka", "amount": 90, "image": "https://tse4.mm.bing.net/th/id/OIP.6P89uhzo0tj7mk864PI8AgHaHa?pid=Api&P=0&h=180"},
+      { "name": "Egg Curry", "amount": 110, "image": "https://tse3.mm.bing.net/th/id/OIP.0J22QkmQeANXZ5eWZWLFQAAAAA?pid=Api&P=0&h=180" },
+      { "name": "Chicken Biryani", "amount": 150, "image": "https://tse4.mm.bing.net/th/id/OIP.Iq3Ly_QaB394b0G5cmPgrQHaE8?pid=Api&P=0&h=180" },
+      { "name": "Veg Pulao", "amount": 100, "image": "https://tse4.mm.bing.net/th/id/OIP.0cfSmDFP0cCP5zxji4xfTQHaFx?pid=Api&P=0&h=180" },
+      { "name": "Paneer Butter Masala", "amount": 140, "image": "https://tse2.mm.bing.net/th/id/OIP.qUCb-iMhkd59bAiGEYZphAHaHa?pid=Api&P=0&h=180"}
+    ]
+  }
+] 
